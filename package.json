@@ -1,0 +1,14 @@
+{
+  "name": "cypress-advance",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Rafael Moreira",
+  "license": "MIT",
+  "devDependencies": {
+    "cypress": "^12.4.0",
+    "faker": "5.4.0"
+  },
+  "dependencies": {
+    "cypress-localstorage-commands": "^2.2.2"
+  }
+}
